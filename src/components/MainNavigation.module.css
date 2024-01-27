@@ -3,14 +3,14 @@
     margin: auto;
     padding: 2rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     color: #bbadb5;
     border: 1px solid #bbadb5;
   }
   
   .list {
     display: flex;
-    gap: 1rem;
+    gap: 2rem;
     list-style-type: none;
   }
   
